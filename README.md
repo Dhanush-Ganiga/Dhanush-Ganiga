@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dhanush-Ganiga
-- 👀 I’m interested in Tech field 
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking for a  mentor for guiding me on teaching web development stuff
+-   Web Developer
+-   self study
   
 
 <!---
